@@ -12,7 +12,7 @@
 An interactive **GIS Story Map** visualising the humanitarian crisis across 4 Sahel countries (Burkina Faso, Mali, Niger, Chad). Built with **Leaflet.js** — a single self-contained HTML file ready for deployment on GitHub Pages.
 
 Replicates the type of geospatial analysis delivered for **SPONG/OCHA** (adopted for emergency planning, 2024–2025).
-<img src="https://github.com/36Nabaloum/MEAL-Impact-Analysis-Dashboard-R-Python/blob/main/project3_dashboard_preview.png" alt="Figure 00 - MEAL Impact Analysis Dashboard — R">
+<img src="https://github.com/36Nabaloum/Sahel-Humanitarian-Crisis-GIS-Story-Map/blob/main/sahel_story_map.png" alt="Figure 00 - MEAL Impact Analysis Dashboard — R">
 ---
 
 ## 🗂 Map Layers
